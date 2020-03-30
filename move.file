@@ -1,0 +1,13 @@
+{
+  "board": {
+    "a": ["wr", "wp", null, null, null, null, "bp", "br"],
+    "b": ["wn", "wp", null, null, null, null, "bp", "bn"],
+    "c": ["wb", "wp", null, null, null, null, "bp", "bb"],
+    "d": ["wq", "wp", null, null, null, null, "bp", "bq"],
+    "e": ["wk", "wp", null, null, "bp", null, null, "bk"],
+    "f": ["wb", "wp", "wn", null, null, null, "bp", "bb"],
+    "g": [null, "wp", null, null, null, null, "bp", "bn"],
+    "h": ["wr", "wp", null, null, null, null, "bp", "br"]
+  },
+  "sound": "06"
+}
